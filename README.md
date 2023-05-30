@@ -69,4 +69,4 @@ Si estás realizando aplicaciones donde la respuesta o latencia es crítica, es 
 Además, las WebSockets son una excelente solución en aplicaciones donde hay una comunicación constante entre el servidor y el cliente, ya que sólo necesitas una conexión para mandar cuantos mensajes quieras, mientras que en los mecanismos con Http, cada mensaje requiere de una conexión nueva, si la comunicación es constante, las conexiones podrían terminar alentando el servidor, reduciendo el performance de tu aplicación web.
 Las WebSockets son increíbles, sólo úsalas adecuadamente, y no olvides que a veces las tecnologías antiguas, hacen el trabajo también.
 
-
+Fuente: https://codigofacilito.com/articulos/como-programar-aplicaciones-en-tiempo-real
